@@ -10,7 +10,7 @@ def fourth_challenge
         :attitude => ""}, {
           name: "",
           age: "",
-          attitude ""}]
+          attitude ""
         }
         #your hashes here!
       ]
@@ -19,7 +19,13 @@ def fourth_challenge
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
       :heroine => {name: "Juliet", age: "15", status: "alive"},
-      :heroine_friends => [
+      :heroine_friends =>  [{
+        :name => "",
+        :age => "",
+        :attitude => ""}, {
+          name: "",
+          age: "",
+          attitude ""
         #your hashes here!
       ]
    }
